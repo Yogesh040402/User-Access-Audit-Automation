@@ -1,0 +1,52 @@
+User Access Audit Report
+========================
+Report Date: 2026-03-11
+
+Inactive_users (> 180 days):
+- john
+- mary
+- alex
+- ava
+- sara
+- luffy
+- zoro
+- nami
+- usopp
+- franky
+- robin
+- brook
+- chopper
+- john
+- sanji
+- usopp
+- nami
+- robin
+- zoro
+
+Expired Access Users:
+- john
+- mary
+- alex
+- ava
+- sara
+- luffy
+- zoro
+- nami
+- usopp
+- franky
+- robin
+- brook
+- chopper
+- john
+- sanji
+- usopp
+- nami
+- robin
+- zoro
+
+Duplicate Usernames:
+- john
+- zoro
+- nami
+- usopp
+- robin
